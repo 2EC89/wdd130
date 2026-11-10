@@ -22,8 +22,23 @@ main img {
     height: auto;
 }
 
+h1 {
+    color: steelblue
+}
+
 p {
     padding: 0;
+}
+
+nav {
+    background-color: steelblue;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    display: block;
+    padding: 10px;
 }
 
 footer {
